@@ -25,9 +25,9 @@ class MainActivity : AppCompatActivity() {
 
     private lateinit var binding : ActivityMainBinding
 
-    private val appId="4fbdbc4403f34f988294c3fc0d069e76"
+    private val appId="App id mentioned in the agora api"
     private val channelName="VideoCall"
-    private val token="007eJxTYAj68PVbbbehpdukyWsWWelYp5tIf/ul8vBDsNmXMs5S63cKDCZpSSlJySYmBsZpxiZplhYWRpYmycZpyQYpBmaWqeZmT983pjQEMjIISzkxMTJAIIjPyRCWmZKa75yYk8PAAAAwuCGM"
+    private val token="Token issued"
     private val uid=0
 
     private var isJoined=false
